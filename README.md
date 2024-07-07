@@ -1,0 +1,3 @@
+Simple SpamBot written in Python using PyAutoGUI
+I won't recommend using it on anyone....
+Just Try It on Yourself ;|
